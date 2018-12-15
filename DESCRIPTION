@@ -1,0 +1,10 @@
+Package: helpR
+Title: Some simple helper function for reporting summary statistics.
+Version: 0.0.0.9000
+Authors@R: person("Carter", "Allen", email = "carter.allen12@gmail.com", role = c("aut", "cre"))
+Description: Concatenates summary statistics into publication form for use in tables, plots, or in-line text.
+Depends: R (>= 3.5.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
